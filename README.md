@@ -131,6 +131,9 @@ Visualization of LRU Cache implementation using HashMap and Doubly Linked List w
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinari20&layout=compact&theme=tokyonight"/>
 </p>
 
+## 📈 Contribution Graph
+
+[![Chinari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinari20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 # 🏅 Achievements
