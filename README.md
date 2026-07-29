@@ -34,6 +34,11 @@ Passionate about building scalable backend systems, solving algorithmic problems
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinari20&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 🚀 Tech Stack
 
 ### Languages
