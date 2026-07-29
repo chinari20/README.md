@@ -64,21 +64,7 @@ Passionate about building scalable backend systems, solving algorithmic problems
 
 ---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 
 # 📌 Featured Projects
