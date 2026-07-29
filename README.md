@@ -169,7 +169,6 @@ Visualization of LRU Cache implementation using HashMap and Doubly Linked List w
 
 💻 GitHub: https://github.com/chinari20
 
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
 
 ---
 
